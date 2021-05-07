@@ -1,1 +1,2 @@
-# acg-project-azure-resume-starter
+# cgc-azure-resume-starter
+Starter project for CGC Azure resume
