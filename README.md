@@ -39,7 +39,7 @@ The back-end is an [HTTP triggered](https://docs.microsoft.com/en-us/azure/azure
 - [Testing is important.](https://dev.to/flippedcoding/its-important-to-test-your-code-3lid)
 - [Getting Started with xUnit.net.](https://xunit.net/docs/getting-started/netcore/cmdline)
 - [How to setup Xunit with Azure Functions.](https://madebygps.com/how-to-use-xunit-with-azure-functions/)
-- [Testing Azure Functions.](https://docs.microsoft.com/en-us/azur/azure-functions/functions-test-a-function)
+- [Testing Azure Functions.](https://docs.microsoft.com/en-us/azure/azure-functions/functions-test-a-function)
   
 ## CI/CD Resources
 
