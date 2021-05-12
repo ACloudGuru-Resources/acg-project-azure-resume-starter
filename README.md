@@ -12,7 +12,7 @@
   - [Azure Functions Extensions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
   - [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
   - [Azure Storage Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
-  - [Full solution](https://github.com/ACloudGuru-Resources/acg-project-azure-resume)
+- [Full solution](https://github.com/ACloudGuru-Resources/acg-project-azure-resume)
 
 ## Front-end resources
 
